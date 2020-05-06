@@ -24,12 +24,11 @@ The folder contains images which are included in markdown with relative path. Th
 # Support:
 Please write to "gundal.b@northeastern.edu" for further support.
 # Authors and acknowledgment:
-Author: Bhagyashri Gundal
+Author: Bhagyashri Gundal<br>
 Big thanks to my mentor Professor Brown and Teaching assistants Nikunj, Akshay and Manogna.
-# Portfolio Link:
-   
-Medium Article: https://medium.com/@ranigundal/plant-species-classification-using-leaf-images-with-cnn-41a2325090af
-Blog Link: https://ranigundal.wixsite.com/website/post/leaf-classification-using-deep-learning
+# Portfolio Links:
+<a href = https://medium.com/@ranigundal/plant-species-classification-using-leaf-images-with-cnn-41a2325090af>Medium</a> <br>
+<a href = https://ranigundal.wixsite.com/website/post/leaf-classification-using-deep-learning>Blog</a>
 # License:
 MIT License
 Copyright (c) [2020] [Bhagyashri Rangnath Gundal]
