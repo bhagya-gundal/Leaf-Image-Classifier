@@ -30,8 +30,8 @@ Author: Bhagyashri Gundal
 Big thanks to my mentor Professor Brown and Teaching assistants Nikunj, Akshay and Manogna.
 # Portfolio Link:
    
-Medium Article: https://medium.com/@ranigundal/plant-species-classification-using-leaf- images-with-cnn-41a2325090af
-Blog Link: https://ranigundal.wixsite.com/website/post/leaf-classification-using-deep- learning
+Medium Article: https://medium.com/@ranigundal/plant-species-classification-using-leaf-images-with-cnn-41a2325090af
+Blog Link: https://ranigundal.wixsite.com/website/post/leaf-classification-using-deep-learning
 # License:
 MIT License
 Copyright (c) [2020] [Bhagyashri Rangnath Gundal]
