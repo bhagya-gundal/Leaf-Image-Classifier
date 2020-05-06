@@ -21,7 +21,8 @@ pip install pandas
 
 pip install numpy
 # Images:
-The folder contains images which are included in markdown with relative path.
+The folder contains images which are included in markdown with relative path. They can be downloaded 
+<a href="http://leafsnap.com/static/dataset/leafsnap-dataset.tar">here</a>
 # Support:
 Please write to "gundal.b@northeastern.edu" for further support.
 # Authors and acknowledgment:
