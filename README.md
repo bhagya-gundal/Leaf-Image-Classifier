@@ -15,9 +15,11 @@ You can download the dataset and upload the file along with dataset on Google Co
 # References for easy Installation:
 https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html
 # Once you have Jupyter up and running run following commands:
-!pip install tensorflow 
-!pip install pandas
-!pip install numpy
+pip install tensorflow
+
+pip install pandas
+
+pip install numpy
 # Images:
 The folder contains images which are included in markdown with relative path.
 # Support:
