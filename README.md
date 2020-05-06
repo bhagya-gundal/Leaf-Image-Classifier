@@ -2,7 +2,7 @@
 Plant Species Classification using leaf images with CNN
 # Description:
 The objective is to use leaf images and extracted features, including shape, margin & texture, to accurately identify the species. The goal is to build a model/classifier that uses the pre- extracted features and train neural network for classification of leaf images. Finally, examine the errors and improve the accuracy.
-# Project Requirements:
+# Dependencies:
 Data source: A leaf dataset
 Link for dataset download: http://leafsnap.com/static/dataset/leafsnap-dataset.tar
 System Requirements:
