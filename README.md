@@ -20,7 +20,7 @@ https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html
 # Images:
 The folder contains images which are included in markdown with relative path.
 # Support:
-Please write to "gundal.b@northeastren.edu" for further support.
+Please write to "gundal.b@northeastern.edu" for further support.
 # Authors and acknowledgment:
 Author: Bhagyashri Gundal
 Big thanks to my mentor Professor Brown and Teaching assistants Nikunj, Akshay and Manogna.
