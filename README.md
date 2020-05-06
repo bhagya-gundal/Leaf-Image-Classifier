@@ -3,11 +3,9 @@ Plant Species Classification using leaf images with CNN
 # Description:
 The objective is to use leaf images and extracted features, including shape, margin & texture, to accurately identify the species. The goal is to build a model/classifier that uses the pre- extracted features and train neural network for classification of leaf images. Finally, examine the errors and improve the accuracy.
 # Dependencies:
-Data source: A leaf dataset
-Link for dataset download: http://leafsnap.com/static/dataset/leafsnap-dataset.tar
 System Requirements:
 You need to have following software on your computer to run the project file.
-1. Python 3.0
+1. Python 3.0 and above
 2. TensorFlow, Pandas, NumPy packages
 3. Anaconda Navigator 4. Jupyter Notebook
 OR
